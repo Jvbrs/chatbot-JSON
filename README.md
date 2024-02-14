@@ -1,6 +1,6 @@
 # Projeto ChatBot Chico 🤖
 
-O ChatBot é um projeto desenvolvido utilizando o Streamlit, uma biblioteca para criação de aplicativos web interativos com Python. Este bot oferece uma experiência de questionário interativo, onde os usuários podem responder a perguntas em um formato amigável. O projeto faz parte de uma das etapas do processo seletivo da Kukac
+O ChatBot é um projeto desenvolvido utilizando o Streamlit, uma biblioteca para criação de aplicativos web interativos com Python. Este bot oferece uma experiência de questionário interativo, onde os usuários podem responder a perguntas em um formato amigável. 
 
 ## Funcionalidades
 
